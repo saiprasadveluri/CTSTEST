@@ -1,2 +1,1 @@
-First Line
-Second Line
+Line 1 in Second Branch
